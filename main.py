@@ -1,5 +1,5 @@
 # Image Classification of Red Blood Cell Deformability
-# Matthew Wiens & Erik Lamoureux
+# Matthew Wiens (@MatthewWiens101) & Erik Lamoureux (@lamoureuxe)
 # University of British Columbia
 # December 2021
 
