@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Assessing Red Blood Cell Deformability Using Deep
+  Learning
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Erik S
+    affiliation: University of British Columbia
+    email: erik.lamoureux@ubc.ca
+    family-names: Lamoureux
+  - given-names: Matthew V J
+    family-names: Wiens
+    email: m.wiens@shaw.ca
+    affiliation: University of British Columbia
+    orcid: 'https://orcid.org/0000-0003-2994-8957'
