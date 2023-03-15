@@ -1,6 +1,9 @@
 # Assessing Red Blood Cell Deformability using Deep Learning
-Code from:
+Experimental Paper:
 Lamoureux, E. S., Islamzada, E., Wiens, M. V., Matthews, K., Duffy, S. P., & Ma, H. (2022). Assessing red blood cell deformability from microscopy images using deep learning. Lab on a Chip, 22(1), 26-39. https://doi.org/10.1039/D1LC01006A.
+
+Data Paper:
+Lamoureux, E. S., Islamzada, E., Wiens, M. V., Matthews, K., Duffy, S. P., & Ma, H. (2023). Data for assessing red blood cell deformability from microscopy images using deep learning. Data in Brief, 47, 108928. https://doi.org/10.1016/j.dib.2023.108928.
 
 This code implements image segmentation, augmentation, and classification to assess red blood cell deformability. 
 
